@@ -4,5 +4,5 @@ This is my personal helm repo used for charts that I am working on.  Some may or
 
 ```bash
 helm repo add jfelten https://jfelten.github.io/helm-charts/charts
-helm install jfelten/<CHART_NAME>
+helm install busybox jfelten/<CHART_NAME>
 ```
